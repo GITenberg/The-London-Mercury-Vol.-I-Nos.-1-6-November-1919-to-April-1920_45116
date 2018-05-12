@@ -20,6 +20,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/35258
     wikipedia: http://en.wikipedia.org/wiki/J._C._Squire
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/45116#The-London-Mercury-Vol.-I-Nos.-1-6-November-1919-to-April-1920
 gutenberg_issued: '2014-03-11'
 gutenberg_type: Text
 identifiers:
